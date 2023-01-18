@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/test.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/test.github.io/static/js/main.49dc2a96.js",
-    "static/js/787.f441ebf0.chunk.js": "/test.github.io/static/js/787.f441ebf0.chunk.js",
-    "static/media/logo.svg": "/test.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/test.github.io/static/css/main.f3f3c836.css",
+    "main.js": "/test.github.io/static/js/main.43764118.js",
+    "static/media/avatar.jpg": "/test.github.io/static/media/avatar.6985d17c012f57f61392.jpg",
+    "static/media/littlenightmares.jpg": "/test.github.io/static/media/littlenightmares.f8d1bb4a6e07df8da2a6.jpg",
+    "static/media/coc.jpg": "/test.github.io/static/media/coc.39b8818241fb2a738130.jpg",
+    "static/media/timberborn.jpg": "/test.github.io/static/media/timberborn.cc7cbc34fe9603205602.jpg",
+    "static/media/owlcity.jpg": "/test.github.io/static/media/owlcity.3fee2aa1149068e579da.jpg",
+    "static/media/projectplaytime.jpg": "/test.github.io/static/media/projectplaytime.453cc0e61c174dc2eb25.jpg",
+    "static/media/ninety-percent.png": "/test.github.io/static/media/ninety-percent.886672147377e42f8a08.png",
+    "static/media/eighty-percent.png": "/test.github.io/static/media/eighty-percent.26d6c6bda38ec0ad1ce2.png",
+    "static/media/csgo.jpg": "/test.github.io/static/media/csgo.410c3bbdfaf578bab452.jpg",
+    "static/media/sixty-percent.png": "/test.github.io/static/media/sixty-percent.d54b63cab62ebec21c1b.png",
+    "static/media/seventy-percent.png": "/test.github.io/static/media/seventy-percent.04710611897297365454.png",
+    "static/media/fifty-percent.png": "/test.github.io/static/media/fifty-percent.04d5531f2f59a7c18808.png",
+    "static/media/fourty-percent.png": "/test.github.io/static/media/fourty-percent.c039b707f47815e11224.png",
     "index.html": "/test.github.io/index.html",
-    "main.073c9b0a.css.map": "/test.github.io/static/css/main.073c9b0a.css.map",
-    "main.49dc2a96.js.map": "/test.github.io/static/js/main.49dc2a96.js.map",
-    "787.f441ebf0.chunk.js.map": "/test.github.io/static/js/787.f441ebf0.chunk.js.map"
+    "main.f3f3c836.css.map": "/test.github.io/static/css/main.f3f3c836.css.map",
+    "main.43764118.js.map": "/test.github.io/static/js/main.43764118.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.49dc2a96.js"
+    "static/css/main.f3f3c836.css",
+    "static/js/main.43764118.js"
   ]
 }
