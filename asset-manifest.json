@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/test.github.io/static/css/main.f3f3c836.css",
-    "main.js": "/test.github.io/static/js/main.43764118.js",
-    "static/media/avatar.jpg": "/test.github.io/static/media/avatar.6985d17c012f57f61392.jpg",
+    "main.js": "/test.github.io/static/js/main.1f6b28f6.js",
     "static/media/littlenightmares.jpg": "/test.github.io/static/media/littlenightmares.f8d1bb4a6e07df8da2a6.jpg",
     "static/media/coc.jpg": "/test.github.io/static/media/coc.39b8818241fb2a738130.jpg",
     "static/media/timberborn.jpg": "/test.github.io/static/media/timberborn.cc7cbc34fe9603205602.jpg",
@@ -17,10 +16,10 @@
     "static/media/fourty-percent.png": "/test.github.io/static/media/fourty-percent.c039b707f47815e11224.png",
     "index.html": "/test.github.io/index.html",
     "main.f3f3c836.css.map": "/test.github.io/static/css/main.f3f3c836.css.map",
-    "main.43764118.js.map": "/test.github.io/static/js/main.43764118.js.map"
+    "main.1f6b28f6.js.map": "/test.github.io/static/js/main.1f6b28f6.js.map"
   },
   "entrypoints": [
     "static/css/main.f3f3c836.css",
-    "static/js/main.43764118.js"
+    "static/js/main.1f6b28f6.js"
   ]
 }
